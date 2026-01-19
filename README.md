@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&width=435&separator=%3C&lines=Hello.java+%26%26+Database.sql;" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&width=435&separator=%3C&lines=Spring.java+%26%26+Database.sql;" alt="Typing SVG" /></a></h1>
 
 <div align="center">
   
@@ -10,18 +10,19 @@
 <td width="50%">
 
 ### About Me
-- 💻 Want to be a Java Software Developer
-- 🌱 Currently exploring new technologies and frameworks
-- 👯 Looking to increase my techy knowledge
-- 🌐 Passionate to meet like-minded developers
-- 👰 Simple Goal = Job -> Nikkah;
+- 💻 Java Backend Developer
+- 🌱 Spring Boot 
+- 👯 Enhancing my knowledge through new Technologies
+- 🌐 Passionate about meeting like-minded developers
+- 👰 Simple Goal = Job --> Nikkah;
 
 ### Skills
-- **Languages**: Java, JDBC, C
+- **Languages**: Java, Spring Boot
 - **Frontend**: HTML5, CSS3
 - **Database**: MySQL
-- **Tools**: Git, VS Code, IntelliJ IDEA
-- **Other**: APIs, Photography 📸
+- **ORM**: Hibernate, Spring Data JPA
+- **Tools**: Git, VS-Code, IntelliJ IDEA
+- **Other**: APIs, Restful APIs, Photography 📸
 
 </td>
 </tr>
